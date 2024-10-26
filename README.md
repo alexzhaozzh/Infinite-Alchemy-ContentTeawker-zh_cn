@@ -1,0 +1,1 @@
+本项目是针对整合包Infinite Alchemy的物品汉化
