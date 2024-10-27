@@ -155,202 +155,202 @@ item.contenttweaker.mushroomite_dust.name=聚合蘑菇粉
 item.contenttweaker.raw_mushroomite.name=粗聚合蘑菇
 tile.contenttweaker.mushroomite_mud.name=聚合蘑菇土
 
-item.contenttweaker.mekanized_steel_ingot.name=Mekanized Steel Ingot
-item.contenttweaker.mekanized_steel_plate.name=Mekanized Steel Plate
-item.contenttweaker.mekanized_steel_rod.name=Mekanized Steel Rod
-item.contenttweaker.mekanized_steel_gear.name=Mekanized Steel Gear
-tile.contenttweaker.mekanized_steel_block.name=Block of Mekanized Steel
-item.contenttweaker.mekanized_steel_nugget.name=Mekanized Steel Nugget
-item.contenttweaker.mekanized_steel_dust.name=Mekanized Steel Dust
-item.contenttweaker.mekanized_steel_base_ingot.name=Mekanized Steel Base Ingot
+item.contenttweaker.mekanized_steel_ingot.name=机械钢锭
+item.contenttweaker.mekanized_steel_plate.name=机械钢板
+item.contenttweaker.mekanized_steel_rod.name=机械钢棒
+item.contenttweaker.mekanized_steel_gear.name=机械钢齿轮
+tile.contenttweaker.mekanized_steel_block.name=机械钢块
+item.contenttweaker.mekanized_steel_nugget.name=机械钢粒
+item.contenttweaker.mekanized_steel_dust.name=机械钢粉
+item.contenttweaker.mekanized_steel_base_ingot.name=机械钢锭基板
 
-item.contenttweaker.fluix_steel_ingot.name=Fluix Steel Ingot
-item.contenttweaker.fluix_steel_plate.name=Fluix Steel Plate
-item.contenttweaker.fluix_steel_rod.name=Fluix Steel Rod
-item.contenttweaker.fluix_steel_gear.name=Fluix Steel Gear
-item.contenttweaker.fluix_steel_wire.name=Fluix Steel Wire
-tile.contenttweaker.fluix_steel_block.name=Block of Fluix Steel
-item.contenttweaker.fluix_steel_nugget.name=Fluix Steel Nugget
-item.contenttweaker.fluix_steel_dust.name=Fluix Steel Dust
+item.contenttweaker.fluix_steel_ingot.name=福鲁伊克斯钢锭
+item.contenttweaker.fluix_steel_plate.name=福鲁伊克斯钢板
+item.contenttweaker.fluix_steel_rod.name=福鲁伊克斯钢棒
+item.contenttweaker.fluix_steel_gear.name=福鲁伊克斯钢齿轮
+item.contenttweaker.fluix_steel_wire.name=福鲁伊克斯钢线
+tile.contenttweaker.fluix_steel_block.name=福鲁伊克斯钢块
+item.contenttweaker.fluix_steel_nugget.name=福鲁伊克斯钢粒
+item.contenttweaker.fluix_steel_dust.name=福鲁伊克斯钢粉
 
-item.contenttweaker.menril_steel_base_ingot.name=Menril Steel Base Ingot
-item.contenttweaker.menril_steel_ingot.name=Menril Steel Ingot
-item.contenttweaker.menril_steel_nugget.name=Menril Steel Nugget 
-item.contenttweaker.menril_steel_plate.name=Menril Steel Plate
-item.contenttweaker.menril_steel_wire.name=Menril Steel Wire
-item.contenttweaker.menril_steel_dust.name=Menril Steel Dust
-tile.contenttweaker.menril_steel_block.name=Block of Menril Steel
+item.contenttweaker.menril_steel_base_ingot.name=门瑞欧钢锭基板
+item.contenttweaker.menril_steel_ingot.name=门瑞欧钢锭
+item.contenttweaker.menril_steel_nugget.name=门瑞欧钢粒
+item.contenttweaker.menril_steel_plate.name=门瑞欧钢板
+item.contenttweaker.menril_steel_wire.name=门瑞欧钢线
+item.contenttweaker.menril_steel_dust.name=门瑞欧钢粉
+tile.contenttweaker.menril_steel_block.name=门瑞欧钢块
 
-item.contenttweaker.xnet_ingot.name=Xnet Ingot
-item.contenttweaker.xnet_plate.name=Xnet Plate
-item.contenttweaker.xnet_wire.name=Xnet Wire
-tile.contenttweaker.xnet_block.name=Block of Xnet Alloy
+item.contenttweaker.xnet_ingot.name=Xnet合金锭
+item.contenttweaker.xnet_plate.name=Xnet合金板
+item.contenttweaker.xnet_wire.name=Xnet合金线
+tile.contenttweaker.xnet_block.name=Xnet合金块
 
 
-item.contenttweaker.soy_ingot.name=Soy Steel Ingot
-item.contenttweaker.soy_plate.name=Soy Steel Plate
-item.contenttweaker.soy_gear.name=Soy Steel Gear
+item.contenttweaker.soy_ingot.name=豆浆金属锭
+item.contenttweaker.soy_plate.name=豆浆金属板
+item.contenttweaker.soy_gear.name=豆浆金属齿轮
 
-item.contenttweaker.glass_ingot.name=Zincous Glass Ingot
-item.contenttweaker.potion_zinc_ingot.name=Potioned Zincous Alloy Ingot
-item.contenttweaker.potion_zinc_plate.name=Potioned Zincous Alloy Plate
-item.contenttweaker.potion_zinc_gear.name=Potioned Zincous Alloy Gear
+item.contenttweaker.glass_ingot.name=水晶锌锭
+item.contenttweaker.potion_zinc_ingot.name=注魔水晶锌锭
+item.contenttweaker.potion_zinc_plate.name=注魔水晶锌板
+item.contenttweaker.potion_zinc_gear.name=注魔水晶锌齿轮
 
-item.contenttweaker.solar_potion_zinc_ingot.name=Solar Potioned Zincous Alloy Ingot
-item.contenttweaker.solar_potion_zinc_plate.name=Solar Potioned Zincous Alloy Plate
-item.contenttweaker.solar_potion_zinc_gear.name=Solar Potioned Zincous Alloy Gear
+item.contenttweaker.solar_potion_zinc_ingot.name=阳光注魔水晶锌锭
+item.contenttweaker.solar_potion_zinc_plate.name=阳光注魔水晶锌板
+item.contenttweaker.solar_potion_zinc_gear.name=阳光注魔水晶锌齿轮
 
-item.contenttweaker.platinum_wire.name=Platinum Wire
+item.contenttweaker.platinum_wire.name=铂线
 
-item.contenttweaker.black_bronze_ingot.name=Black Bronze Ingot
-item.contenttweaker.black_bronze_plate.name=Black Bronze Plate
-item.contenttweaker.black_bronze_rod.name=Black Bronze Rod
-item.contenttweaker.black_bronze_gear.name=Black Bronze Gear
-tile.contenttweaker.black_bronze_block.name=Block of Black Bronze
-item.contenttweaker.black_bronze_nugget.name=Black Bronze Nugget
-item.contenttweaker.black_bronze_dust.name=Black Bronze Dust
+item.contenttweaker.black_bronze_ingot.name=焦黑铜锭
+item.contenttweaker.black_bronze_plate.name=焦黑铜板
+item.contenttweaker.black_bronze_rod.name=焦黑铜板
+item.contenttweaker.black_bronze_gear.name=焦黑铜齿轮
+tile.contenttweaker.black_bronze_block.name=焦黑铜块
+item.contenttweaker.black_bronze_nugget.name=焦黑铜粒
+item.contenttweaker.black_bronze_dust.name=焦黑铜粉
 
-item.contenttweaker.tinezo_ingot.name=Tinezo Ingot
-item.contenttweaker.tinezo_plate.name=Tinezo Plate
-item.contenttweaker.tinezo_gear.name=Tinezo Gear
-item.contenttweaker.tinezo_dust.name=Tinezo Dust
-tile.contenttweaker.tinezo_block.name=Block of Tinezo
+item.contenttweaker.tinezo_ingot.name=零素锡合金锭
+item.contenttweaker.tinezo_plate.name=零素锡合金板
+item.contenttweaker.tinezo_gear.name=零素锡合金齿轮
+item.contenttweaker.tinezo_dust.name=零素锡合金粉
+tile.contenttweaker.tinezo_block.name=零素锡合金块
 
-item.contenttweaker.coppra.name=Coppra Crystal
-tile.contenttweaker.coppra_block.name=Coppra Crystal Block
-item.contenttweaker.ecoppra.name=Empowered Coppra Crystal
-tile.contenttweaker.ecoppra_block.name=Empowered Coppra Crystal Block
-item.contenttweaker.nittin.name=Nittin Crystal
-tile.contenttweaker.nittin_block.name=Nittin Crystal Block
-item.contenttweaker.enittin.name=Empowered Nittin Crystal
-tile.contenttweaker.enittin_block.name=Empowered Nittin Crystal Block
-item.contenttweaker.goold.name=Goold Crystal
-tile.contenttweaker.goold_block.name=Goold Crystal Block
-item.contenttweaker.egoold.name=Empowered Goold Crystal
-tile.contenttweaker.egoold_block.name=Empowered Goold Crystal Block
+item.contenttweaker.coppra.name=铜水晶
+tile.contenttweaker.coppra_block.name=铜水晶块
+item.contenttweaker.ecoppra.name=充能铜水晶
+tile.contenttweaker.ecoppra_block.name=充能铜水晶块
+item.contenttweaker.nittin.name=锡水晶
+tile.contenttweaker.nittin_block.name=锡水晶块
+item.contenttweaker.enittin.name=充能锡水晶
+tile.contenttweaker.enittin_block.name=充能锡水晶块
+item.contenttweaker.goold.name=金水晶
+tile.contenttweaker.goold_block.name=金水晶块
+item.contenttweaker.egoold.name=充能金水晶
+tile.contenttweaker.egoold_block.name=充能金水晶块
 
-item.contenttweaker.rainbow_crystal_cluster.name=Rainbow Crystal Cluster
+item.contenttweaker.rainbow_crystal_cluster.name=彩虹水晶簇
 
-item.contenttweaker.arkenium_pieces.name=Arkenium Pieces
-item.contenttweaker.arkenium_chunk.name=Arkenium Chunk
-item.contenttweaker.arkenium_ingot.name=Arkenium Ingot
-item.contenttweaker.arkenium_plate.name=Arkenium Plate
-item.contenttweaker.arkenium_gear.name=Arkenium Gear
-tile.contenttweaker.arkenium_block.name=Block of Arkenium
-item.contenttweaker.arkenium_dust.name=Arkenium Dust
-fluid.arkenium=Molten Arkenium
+item.contenttweaker.arkenium_pieces.name=Arkenium 矿石碎片
+item.contenttweaker.arkenium_chunk.name=Arkenium 矿石碎块
+item.contenttweaker.arkenium_ingot.name=阿肯钢锭
+item.contenttweaker.arkenium_plate.name=阿肯钢板
+item.contenttweaker.arkenium_gear.name=阿肯钢齿轮
+tile.contenttweaker.arkenium_block.name=阿肯钢块
+item.contenttweaker.arkenium_dust.name=阿肯钢粉
+fluid.arkenium=熔融阿肯钢
 
-item.contenttweaker.arkenium_ball.name=Arkenium Grinding Ball
+item.contenttweaker.arkenium_ball.name=阿肯钢磨珠
 
-item.contenttweaker.arkenium_crystal.name=Arkenium Crystal
-item.contenttweaker.arkenium_shard.name=Arkenium Shard
-item.contenttweaker.arkenium_cluster.name=Arkenium Clump
-item.contenttweaker.arkenium_dirty_dust.name=Dirty Arkenium Dust
-gas.arkenium=Arkenium Slurry
-gas.cleanarkenium=Clean Arkenium Slurry
+item.contenttweaker.arkenium_crystal.name=阿肯钢晶体
+item.contenttweaker.arkenium_shard.name=阿肯钢碎片
+item.contenttweaker.arkenium_cluster.name=阿肯钢碎块
+item.contenttweaker.arkenium_dirty_dust.name=污浊的阿肯钢粉
+gas.arkenium=阿肯钢浆液
+gas.cleanarkenium=纯净阿肯钢浆液
 
-item.contenttweaker.gallium_pieces.name=Gallium Pieces
-item.contenttweaker.gallium_chunk.name=Gallium Chunk
-item.contenttweaker.gallium_ingot.name=Gallium Ingot
-item.contenttweaker.gallium_sheet.name=Gallium Sheet
-tile.contenttweaker.gallium_block.name=Block of Gallium
-tile.contenttweaker.gallium_ore.name=Gallium Ore
-tile.contenttweaker.gallium_dense_ore.name=Dense Gallium Ore
+item.contenttweaker.gallium_pieces.name=Gallium 矿石碎片
+item.contenttweaker.gallium_chunk.name=Gallium 矿石碎块
+item.contenttweaker.gallium_ingot.name=镓锭
+item.contenttweaker.gallium_sheet.name=镓板
+tile.contenttweaker.gallium_block.name=镓块
+tile.contenttweaker.gallium_ore.name=镓矿石
+tile.contenttweaker.gallium_dense_ore.name=致密镓矿石
 
-item.contenttweaker.gallium_dust.name=Gallium Dust
-fluid.gallium=Molten Gallium
+item.contenttweaker.gallium_dust.name=镓粉
+fluid.gallium=熔融镓
 
-item.contenttweaker.gallium_crystal.name=Gallium Crystal
-item.contenttweaker.gallium_shard.name=Gallium Shard
-item.contenttweaker.gallium_clump.name=Gallium Clump
-item.contenttweaker.gallium_dirty_dust.name=Dirty Gallium Dust
-gas.gallium=Gallium Slurry
-gas.cleangallium=Clean Gallium Slurry
+item.contenttweaker.gallium_crystal.name=镓晶体
+item.contenttweaker.gallium_shard.name=镓碎片
+item.contenttweaker.gallium_clump.name=镓碎块
+item.contenttweaker.gallium_dirty_dust.name=污浊的镓粉
+gas.gallium=镓浆液
+gas.cleangallium=纯净镓浆液
 
-item.contenttweaker.algan.name=AlGaN Dust
+item.contenttweaker.algan.name=铝镓合金粉
 
-item.contenttweaker.stoneleaf.name=Fossilized Steeleaf
-item.contenttweaker.stoneleaf_clump.name=Fossilized Steeleaf Clump
-tile.contenttweaker.stoneleaf_ore.name=Fossilized Steeleaf Ore
-tile.contenttweaker.stoneleaf_dense_ore.name=Dense Fossilized Steeleaf Ore
+item.contenttweaker.stoneleaf.name=钢叶化石
+item.contenttweaker.stoneleaf_clump.name=钢叶化石簇
+tile.contenttweaker.stoneleaf_ore.name=钢叶化石矿石
+tile.contenttweaker.stoneleaf_dense_ore.name=致密钢叶化石矿石
 
-item.contenttweaker.osmiridium_dust.name=Osmiridium Dust
-item.contenttweaker.osmiridium_rod.name=Osmiridium Rod
-item.contenttweaker.osmiridium_support.name=Osmiridium Support Structure
+item.contenttweaker.osmiridium_dust.name=铱锇合金粉
+item.contenttweaker.osmiridium_rod.name=铱锇合金棒
+item.contenttweaker.osmiridium_support.name=铱锇合金支撑结构
 
-item.contenttweaker.osgloridium_ingot.name=Osgloridium Ingot
-item.contenttweaker.osgloridium_plate.name=Osgloridium Plate
-item.contenttweaker.osgloridium_rod.name=Osgloridium Rod
-item.contenttweaker.osgloridium_gear.name=Osgloridium Gear
-tile.contenttweaker.osgloridium_block.name=Block of Osgloridium
-item.contenttweaker.osgloridium_nugget.name=Osgloridium Nugget
-item.contenttweaker.osgloridium_dust.name=Osgloridium Dust
+item.contenttweaker.osgloridium_ingot.name=铱锇荧黑曜合金锭
+item.contenttweaker.osgloridium_plate.name=铱锇荧黑曜合金板
+item.contenttweaker.osgloridium_rod.name=铱锇荧黑曜合金棒
+item.contenttweaker.osgloridium_gear.name=铱锇荧黑曜合金齿轮
+tile.contenttweaker.osgloridium_block.name=铱锇荧黑曜合金块
+item.contenttweaker.osgloridium_nugget.name=铱锇荧黑曜合金粒
+item.contenttweaker.osgloridium_dust.name=铱锇荧黑曜合金粉
 
-item.contenttweaker.fiery_ball.name=Fiery Grinding Ball
+item.contenttweaker.fiery_ball.name=炽铁磨珠
 
-item.contenttweaker.titanium_ingot.name=Titanium Ingot
-item.contenttweaker.titanium_plate.name=Titanium Plate
-item.contenttweaker.titanium_rod.name=Titanium Rod
-item.contenttweaker.titanium_gear.name=Titanium Gear
-tile.contenttweaker.titanium_block.name=Block of Titanium
-item.contenttweaker.titanium_nugget.name=Titanium Nugget
-item.contenttweaker.titanium_dust.name=Titanium Dust
-tile.contenttweaker.titanium_ore.name=Titanium Ore
+item.contenttweaker.titanium_ingot.name=钛锭
+item.contenttweaker.titanium_plate.name=钛板
+item.contenttweaker.titanium_rod.name=钛棒
+item.contenttweaker.titanium_gear.name=钛齿轮
+tile.contenttweaker.titanium_block.name=钛块
+item.contenttweaker.titanium_nugget.name=钛粒
+item.contenttweaker.titanium_dust.name=钛粉
+tile.contenttweaker.titanium_ore.name=钛矿石
 
-item.contenttweaker.tungsten_plate.name=Tungsten Plate
-item.contenttweaker.tungsten_wire.name=Tungsten Wire
-item.contenttweaker.tungsten_coil.name=Tungsten Coil
-tile.contenttweaker.tungsten_block.name=Block of Tungsten
-tile.contenttweaker.tungsten_ore.name=Tungsten Ore
-item.contenttweaker.tungsten_mixture.name=Tungsten Mixture
+item.contenttweaker.tungsten_plate.name=钨板
+item.contenttweaker.tungsten_wire.name=钨线
+item.contenttweaker.tungsten_coil.name=钨线圈
+tile.contenttweaker.tungsten_block.name=钨块
+tile.contenttweaker.tungsten_ore.name=钨矿石
+item.contenttweaker.tungsten_mixture.name=钨混合物
 
-item.contenttweaker.uranium_pieces.name=Uranium Ore Piece
-item.contenttweaker.uranium_chunk.name=Uranium Ore Chunk
-item.contenttweaker.uranium_mesh.name=Uranium Mesh
+item.contenttweaker.uranium_pieces.name=Uranium 矿石碎片
+item.contenttweaker.uranium_chunk.name=Uranium 矿石碎块
+item.contenttweaker.uranium_mesh.name=铀硬化筛网
 
-item.contenttweaker.weather_chrome_mesh.name=Weather Chrome Semi-Living Mesh
+item.contenttweaker.weather_chrome_mesh.name=天气水晶铬合金半活体硬化筛网
 
-item.contenttweaker.filter_empty.name=Fluid Filter Frame
-item.contenttweaker.filter_charcoal.name=Charcoal Fluid Filter
+item.contenttweaker.filter_empty.name=流体过滤器框架
+item.contenttweaker.filter_charcoal.name=木炭流体过滤器
     VanillaFactory.createItem("filter_solar").register();
     VanillaFactory.createItem("filter_blood").register();
 
-item.contenttweaker.medical_alloy_ingot.name=Medical Alloy Ingot
-item.contenttweaker.medical_alloy_plate.name=Medical Alloy Plate
-item.contenttweaker.medical_alloy_rod.name=Medical Alloy Rod
-item.contenttweaker.medical_alloy_gear.name=Medical Alloy Gear
-item.contenttweaker.medical_alloy_wire.name=Medical Alloy Wire
-tile.contenttweaker.medical_alloy_block.name=Block of Medical Alloy
-item.contenttweaker.medical_alloy_nugget.name=Medical Alloy Nugget
-item.contenttweaker.medical_alloy_dust.name=Medical Alloy Dust
-item.contenttweaker.medical_alloy_coil.name=Medical Alloy Spool
-fluid.medical_alloy=Molten Medical Alloy
+item.contenttweaker.medical_alloy_ingot.name=医用合金锭
+item.contenttweaker.medical_alloy_plate.name=医用合金板
+item.contenttweaker.medical_alloy_rod.name=医用合金棒
+item.contenttweaker.medical_alloy_gear.name=医用合金齿轮
+item.contenttweaker.medical_alloy_wire.name=医用合金线
+tile.contenttweaker.medical_alloy_block.name=医用合金块
+item.contenttweaker.medical_alloy_nugget.name=医用合金粒
+item.contenttweaker.medical_alloy_dust.name=医用合金粉
+item.contenttweaker.medical_alloy_coil.name=医用合金线圈
+fluid.medical_alloy=熔融医用合金
 
-item.contenttweaker.gastight_steel_ingot.name=Gastight Steel Ingot
-item.contenttweaker.gastight_steel_plate.name=Gastight Steel Plate
-item.contenttweaker.gastight_steel_rod.name=Gastight Steel Rod
-item.contenttweaker.gastight_steel_gear.name=Gastight Steel Gear
-tile.contenttweaker.gastight_steel_block.name=Block of Gastight Steel
-item.contenttweaker.gastight_steel_nugget.name=Gastight Steel Nugget
-item.contenttweaker.gastight_steel_dust.name=Gastight Steel Dust
+item.contenttweaker.gastight_steel_ingot.name=气密钢锭
+item.contenttweaker.gastight_steel_plate.name=气密钢锭板
+item.contenttweaker.gastight_steel_rod.name=气密钢锭棒
+item.contenttweaker.gastight_steel_gear.name=气密钢锭齿轮
+tile.contenttweaker.gastight_steel_block.name=气密钢锭块
+item.contenttweaker.gastight_steel_nugget.name=气密钢锭粒
+item.contenttweaker.gastight_steel_dust.name=气密钢锭粉
 
-item.contenttweaker.fluxed_rod.name=Fluxed Electrum Rod
+item.contenttweaker.fluxed_rod.name=红石琥珀金棒
 
-item.contenttweaker.calitunti_ingot.name=Enheavied Ingot
-item.contenttweaker.calitunti_plate.name=Enheavied Plate
-item.contenttweaker.calitunti_gear.name=Enheavied Gear
-tile.contenttweaker.calitunti_block.name=Enheavied Block
+item.contenttweaker.calitunti_ingot.name=充能混合金属锭
+item.contenttweaker.calitunti_plate.name=充能混合金属板
+item.contenttweaker.calitunti_gear.name=充能混合金属齿轮
+tile.contenttweaker.calitunti_block.name=充能混合金属块
 
-item.contenttweaker.amethyst_ingot.name=Amethyst Ingot
-item.contenttweaker.amethyst_nugget.name=Amethyst Nugget
-item.contenttweaker.amethyst_dust.name=Amethyst Dust
-item.contenttweaker.amethyst_dirty_dust.name=Amethyst Dirty Dust
-fluid.amethesting=Liqiud Amethysting Solution
-gas.amethesting=Amethysting Solution Gas
+item.contenttweaker.amethyst_ingot.name=紫晶锭
+item.contenttweaker.amethyst_nugget.name=紫晶粒
+item.contenttweaker.amethyst_dust.name=紫晶粉
+item.contenttweaker.amethyst_dirty_dust.name=污浊的紫晶粉
+fluid.amethesting=紫水晶溶液
+gas.amethesting=气态紫水晶溶液
 
-item.contenttweaker.ender_amethyst_dust.name=Enethyst Dust
-item.contenttweaker.ender_amethyst_dirty_dust.name=Enethyst Dirty Dust
-fluid.ender_amethyst_dirty=Enethyst Slurry
+item.contenttweaker.ender_amethyst_dust.name=末影紫晶粉
+item.contenttweaker.ender_amethyst_dirty_dust.name=污浊的末影紫晶粉
+fluid.ender_amethyst_dirty=末影紫晶粉浆液
 
 item.contenttweaker.celestial_seed.name=Celestial Crystal Seed
 item.contenttweaker.celestial_corn.name=Celestial Crystal Corn
@@ -1523,7 +1523,7 @@ item.contenttweaker.flesh_bits.name=Carnexan Bits
 item.contenttweaker.flesh_piece.name=Carnexan Piece
 item.contenttweaker.flesh_spurt.name=Carnexan Spurt
 item.contenttweaker.flesh_rod.name=Carnexan Rod
-item.contenttweaker.flesh_support.name=Carnexan Support Structure
+item.contenttweaker.flesh_support.name=Carnexan 支撑结构
 item.contenttweaker.flesh_spurt_activated.name=Activated Carnexan Spurt
 
 
