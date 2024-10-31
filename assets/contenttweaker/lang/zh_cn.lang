@@ -722,19 +722,16 @@ tile.contenttweaker.neutronium_sheetmetal.name=中子素板方块
 item.contenttweaker.neutronium_ball.name=中子素粉磨珠
 
 
-item.contenttweaker.ore_cube_spent.name=Inert Ore Cube
-item.contenttweaker.ore_cube1.name=Ore Cube 1
-item.contenttweaker.ore_cube2.name=Ore Cube 2
-item.contenttweaker.ore_cube3.name=Ore Cube 3
-item.contenttweaker.ore_cube4.name=Ore Cube 4
-item.contenttweaker.ore_cube5.name=Ore Cube 5
+item.contenttweaker.ore_cube_spent.name=惰性矿石立方体
+item.contenttweaker.ore_cube1.name=矿石立方体 1
+item.contenttweaker.ore_cube2.name=矿石立方体 2
+item.contenttweaker.ore_cube3.name=矿石立方体 3
+item.contenttweaker.ore_cube4.name=矿石立方体 4
+item.contenttweaker.ore_cube5.name=矿石立方体 5
 
 
-item.contenttweaker.denorm_dust.name=Denorm Dust
-fluid.denorm=Denorm
-
-
-
+item.contenttweaker.denorm_dust.name=非规格化粉
+fluid.denorm=非规格化流体
 
 
 
@@ -749,43 +746,46 @@ fluid.denorm=Denorm
 
 
 
-item.contenttweaker.energized_compound.name=Energized Compound
 
-item.contenttweaker.malachite_ore_dust.name=Dirty Raw Malachite Dust
-item.contenttweaker.malachite_dust.name=Raw Malachite Dust
-item.contenttweaker.malachite_crystal_seed.name=Raw Malachite Crystal Seed
-item.contenttweaker.malachite_monocrystal.name=Raw Malachite Monocrystal
-item.contenttweaker.malachite_polycrystal.name=Raw Malachite 
-item.contenttweaker.malachite_vase.name=Malachite Vase
-tile.contenttweaker.malachite_block.name=Block of Raw Malachite
-fluid.malachite_solution=Malachite Solution
-fluid.rich_malachite_solution=Concentrated Malachite Solution
 
-item.contenttweaker.solar_silicon.name=Solar Grade Silicon
 
-item.contenttweaker.aluminum_silicon.name=Aluminum Silicon Mix
-item.contenttweaker.insulation_base.name=Insulator Base Dust
-item.contenttweaker.insulation_strand.name=Insulator Strand
-item.contenttweaker.insulation_fabric.name=Insulating Mesh
+item.contenttweaker.energized_compound.name=充能化合物
 
-item.contenttweaker.insulated_rod.name=Insulated Electric Manyullyn Rod
-item.contenttweaker.electromagnet_core.name=Extreme Voltage Electromagnet Core
-tile.contenttweaker.ev_coil.name=Extreme-Voltage Electromagnet Coil
+item.contenttweaker.malachite_ore_dust.name=污浊的粗孔雀石粉
+item.contenttweaker.malachite_dust.name=粗孔雀石粉
+item.contenttweaker.malachite_crystal_seed.name=粗孔雀石水晶种子
+item.contenttweaker.malachite_monocrystal.name=粗孔雀石水晶
+item.contenttweaker.malachite_polycrystal.name=粗孔雀石 
+item.contenttweaker.malachite_vase.name=孔雀石花瓶
+tile.contenttweaker.malachite_block.name=粗孔雀石块
+fluid.malachite_solution=孔雀石溶液
+fluid.rich_malachite_solution=浓缩孔雀石溶液
 
-item.contenttweaker.gravel_wool.name=Gravel Wool
-item.contenttweaker.electric_wool.name=Electrostatic Wool
-item.contenttweaker.electric_wool2_base.name=Advanced Electrostatic Wool Base
-item.contenttweaker.electric_wool2.name=Advanced Electrostatic Wool
+item.contenttweaker.solar_silicon.name=太阳能级硅
 
-item.contenttweaker.sky_grain.name=Sky Grains
+item.contenttweaker.aluminum_silicon.name=铝硅混合物
+item.contenttweaker.insulation_base.name=绝缘基底粉
+item.contenttweaker.insulation_strand.name=绝缘线
+item.contenttweaker.insulation_fabric.name=绝缘网
 
-item.contenttweaker.crystal_coal.name=Crystal Coal
-item.contenttweaker.coral_dust.name=Coral Dust
+item.contenttweaker.insulated_rod.name=绝缘充能玛玉灵棒
+item.contenttweaker.electromagnet_core.name=极压电磁铁铁芯
+tile.contenttweaker.ev_coil.name=极压电磁铁线圈
 
-item.contenttweaker.reinforced_cell.name=Reinforced Cell
-item.contenttweaker.lightning_cell.name=Elemental Lightning Cell
-item.contenttweaker.fire_cell.name=Elemental Fire Cell
-item.contenttweaker.light_cell.name=Elemental Light Cell
+item.contenttweaker.gravel_wool.name=沙砾棉
+item.contenttweaker.electric_wool.name=静电棉
+item.contenttweaker.electric_wool2_base.name=高级静电棉基底
+item.contenttweaker.electric_wool2.name=高级静电棉
+
+item.contenttweaker.sky_grain.name=天空颗粒
+
+item.contenttweaker.crystal_coal.name=水晶煤炭
+item.contenttweaker.coral_dust.name=珊瑚粉
+
+item.contenttweaker.reinforced_cell.name=强化电池
+item.contenttweaker.lightning_cell.name=雷元素强化电池
+item.contenttweaker.fire_cell.name=火元素强化电池
+item.contenttweaker.light_cell.name=光元素强化电池
 
 item.contenttweaker.raw_photovoltaic.name=Raw Photovoltaic Plate
 
