@@ -787,90 +787,90 @@ item.contenttweaker.lightning_cell.name=雷元素强化电池
 item.contenttweaker.fire_cell.name=火元素强化电池
 item.contenttweaker.light_cell.name=光元素强化电池
 
-item.contenttweaker.raw_photovoltaic.name=Raw Photovoltaic Plate
+item.contenttweaker.raw_photovoltaic.name=粗制光伏板
 
-item.contenttweaker.zorra_dust.name=Zorra Dust
+item.contenttweaker.zorra_dust.name=佐拉粉
 
-item.contenttweaker.relic_ingot.name=Relic Ingot 
-item.contenttweaker.relic_nugget.name=Relic Nugget
-tile.contenttweaker.relic_block.name=Relic Block
-tile.contenttweaker.treasure_block.name=Treasure Block
+item.contenttweaker.relic_ingot.name=遗物锭
+item.contenttweaker.relic_nugget.name=遗物粒
+tile.contenttweaker.relic_block.name=遗物块
+tile.contenttweaker.treasure_block.name=宝藏块
 
-item.contenttweaker.gilded_soot.name=Gilded Soot
-item.contenttweaker.gold_crystal.name=Delicate Golden Crystal
-item.contenttweaker.prefluxed_electrum_blend.name=Prefluxed Fluxed Electrum Blend
+item.contenttweaker.gilded_soot.name=镀金烟灰
+item.contenttweaker.gold_crystal.name=精致黄金水晶
+item.contenttweaker.prefluxed_electrum_blend.name=未充能红石琥珀金粉
 
-tile.contenttweaker.atum_godshardium_ore.name=Godshard Ore
-item.contenttweaker.godshardium.name=Refined Godshardium
+tile.contenttweaker.atum_godshardium_ore.name=神屑矿石
+item.contenttweaker.godshardium.name=强化神屑
 
-item.contenttweaker.atum_godshard.name=Atum Godshard
-item.contenttweaker.ra_godshard.name=Ra Godshard
-item.contenttweaker.ptah_godshard.name=Ptah Godshard
-item.contenttweaker.geb_godshard.name=Geb Godshard
-item.contenttweaker.tefnuts_godshard.name=Tefnut Godshard
-item.contenttweaker.shu_godshard.name=Shu Godshard
-item.contenttweaker.horus_godshard.name=Horus Godshard
-item.contenttweaker.seth_godshard.name=Seth Godshard
-item.contenttweaker.isis_godshard.name=Isis Godshard
-item.contenttweaker.montu_godshard.name=Montu Godshard
-item.contenttweaker.anubis_godshard.name=Anubis Godshard
-item.contenttweaker.nuit_godshard.name=Nuit Godshard
-item.contenttweaker.anput_godshard.name=Anput Godshard
-fluid.nuit_fuel=Nuit Blessed Fuel
+item.contenttweaker.atum_godshard.name=阿图姆之神屑
+item.contenttweaker.ra_godshard.name=拉之神屑
+item.contenttweaker.ptah_godshard.name=普塔之神屑
+item.contenttweaker.geb_godshard.name=盖布之神屑
+item.contenttweaker.tefnuts_godshard.name=泰夫努特之神屑
+item.contenttweaker.shu_godshard.name=舒之神屑
+item.contenttweaker.horus_godshard.name=荷鲁斯之神屑
+item.contenttweaker.seth_godshard.name=赛特之神屑
+item.contenttweaker.isis_godshard.name=伊西斯之神屑
+item.contenttweaker.montu_godshard.name=蒙图之神屑
+item.contenttweaker.anubis_godshard.name=阿努比斯之神屑
+item.contenttweaker.nuit_godshard.name=努特之神屑
+item.contenttweaker.anput_godshard.name=安普特之神屑
+fluid.nuit_fuel=神圣努特燃料
 
-fluid.fire=Liquid Elemental Fire
-fluid.luminessence=Liquid Luminessence
+fluid.fire=液态火元素
+fluid.luminessence=液态荧光精华
 
-fluid.data=Liquid Data
+fluid.data=液态数据
 
-item.contenttweaker.lazy_soup.name=Sleep Inducing Soup
+item.contenttweaker.lazy_soup.name=安眠汤
 
-item.contenttweaker.guarding_crystal.name=Guarding Crystal
+item.contenttweaker.guarding_crystal.name=守卫水晶
 
-item.contenttweaker.rotor_blades.name=Rotor Blade
-item.contenttweaker.mekanical_core.name=Mekanical Core
-item.contenttweaker.power_tap_empty.name=Power Tap (Empty)
-item.contenttweaker.power_tap.name=Power Tap
+item.contenttweaker.rotor_blades.name=旋翼桨叶
+item.contenttweaker.mekanical_core.name=机械核心
+item.contenttweaker.power_tap_empty.name=电源抽头（空）
+item.contenttweaker.power_tap.name=电源抽头
 
-item.contenttweaker.gearbox_empty.name=Gearbox Hull
-item.contenttweaker.gearbox_normal.name=Gearbox
-item.contenttweaker.gearbox_funky.name=Funky Gears Gearbox
-item.contenttweaker.gearbox_good.name=Heavy Duty Gearbox
-fluid.mekanized_lubricant=Mekanized Lubricant
+item.contenttweaker.gearbox_empty.name=齿轮箱外壳
+item.contenttweaker.gearbox_normal.name=齿轮箱
+item.contenttweaker.gearbox_funky.name=高级齿轮箱
+item.contenttweaker.gearbox_good.name=重型齿轮箱
+fluid.mekanized_lubricant=甲基化润滑油
 
-item.contenttweaker.ae2_chip_core.name=Chip Base
+item.contenttweaker.ae2_chip_core.name=芯片基板
 
-item.contenttweaker.redstone_inlay.name=Redstone Inlay
-item.contenttweaker.neuron_inlay.name=Redstone-Neuron Inlay
-item.contenttweaker.neuron2_inlay.name=Advanced Neuron Inlay
+item.contenttweaker.redstone_inlay.name=红石嵌体
+item.contenttweaker.neuron_inlay.name=红石神经元嵌体
+item.contenttweaker.neuron2_inlay.name=高级神经元嵌体
 
-item.contenttweaker.fluid_circuit.name=Fluid Circuit
-item.contenttweaker.fluid_processor.name=Fluid Processor
-item.contenttweaker.gas_circuit.name=Gas Circuit
-item.contenttweaker.gas_processor.name=Gas Processor
+item.contenttweaker.fluid_circuit.name=流体电路板
+item.contenttweaker.fluid_processor.name=流体处理器
+item.contenttweaker.gas_circuit.name=气体电路板
+item.contenttweaker.gas_processor.name=气体处理器
 
-item.contenttweaker.fiery_circuit.name=Fiery Item Circuit
-item.contenttweaker.fiery_processor.name=Fiery Item Processor
-item.contenttweaker.enderium_circuit.name=Enderium Fluid Circuit
-item.contenttweaker.enderium_processor.name=Enderium Fluid Processor
-item.contenttweaker.osgloridium_circuit.name=Osgloridium Gas Circuit
-item.contenttweaker.osgloridium_processor.name=Osgloridium Gas Processor
-item.contenttweaker.fluxed_circuit.name=Fluxed Engineering Circuit
-item.contenttweaker.fluxed_processor.name=Fluxed Engineering Processor
+item.contenttweaker.fiery_circuit.name=炽铁电路板
+item.contenttweaker.fiery_processor.name=炽铁处理器
+item.contenttweaker.enderium_circuit.name=末影流体电路板
+item.contenttweaker.enderium_processor.name=末影流体处理器
+item.contenttweaker.osgloridium_circuit.name=铱锇荧黑曜合金气体电路板
+item.contenttweaker.osgloridium_processor.name=铱锇荧黑曜合金气体处理器
+item.contenttweaker.fluxed_circuit.name=红石琥珀金工程电路板
+item.contenttweaker.fluxed_processor.name=红石琥珀金工程处理器
 
-item.contenttweaker.cursed_circuit.name=Cursed Logic Circuit
-item.contenttweaker.cursed_processor.name=Cursed Logic Processor
-item.contenttweaker.potion_circuit.name=Advanced Fluid Circuit
-item.contenttweaker.potion_processor.name=Advanced Fluid Processor
-item.contenttweaker.palladium_circuit.name=Palladium Gas Circuit
-item.contenttweaker.palladium_processor.name=Palladium Gas Processor
-item.contenttweaker.peridotite_circuit.name=FFG-Peridotite Engineering Circuit
-item.contenttweaker.peridotite_processor.name=FFG-Peridotite Engineering Processor
+item.contenttweaker.cursed_circuit.name=诅咒逻辑电路板
+item.contenttweaker.cursed_processor.name=诅咒逻辑处理器
+item.contenttweaker.potion_circuit.name=高级流体电路板
+item.contenttweaker.potion_processor.name=高级流体处理器
+item.contenttweaker.palladium_circuit.name=钯气体电路板
+item.contenttweaker.palladium_processor.name=钯气体处理器
+item.contenttweaker.peridotite_circuit.name=FFG-工程电路板
+item.contenttweaker.peridotite_processor.name=FFG-工程处理器
 
-item.contenttweaker.living_circuit.name=Living Circuit
-item.contenttweaker.living_processor.name=Living Logic Processor
-item.contenttweaker.gambrosium_circuit.name=Gambrosium Circuit
-item.contenttweaker.gambrosium_processor.name=Gambrosium Calculation Processor
+item.contenttweaker.living_circuit.name=活钢逻辑电路板
+item.contenttweaker.living_processor.name=活钢逻辑处理器
+item.contenttweaker.gambrosium_circuit.name=神能晶运算电路板
+item.contenttweaker.gambrosium_processor.name=神能晶运算处理器
 
 
 fluid.sunnarium_base=Sunnaronite
@@ -1693,7 +1693,7 @@ item.contenttweaker.star_polymer.name=Nether Star Polymer Sheet
 item.contenttweaker.mana_star.name=Mana Star
 
 
-item.contenttweaker.soot.name=Soot
+item.contenttweaker.soot.name=烟灰
 item.contenttweaker.soap.name=Soap
 
 item.contenttweaker.flowering_nether_eye.name=Flowering Nether Eye
